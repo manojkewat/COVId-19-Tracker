@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### ScreenShot
 ![Admin Home - Google Chrome 20-08-2020 02_00_38 PM](https://user-images.githubusercontent.com/56467741/90974867-3d07c680-e4fd-11ea-858d-a859e9d55cc3.png)
+"C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot.png.png"
